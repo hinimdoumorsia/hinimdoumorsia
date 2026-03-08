@@ -22,7 +22,6 @@ En parallèle, j'ai travaillé sur des projets concrets : développement d'appli
 <img src="https://img.icons8.com/color/48/react-native.png" width="40" title="React"/>
 <img src="https://img.icons8.com/color/48/nextjs.png" width="40" title="Next.js"/>
 <img src="https://img.icons8.com/color/48/tensorflow.png" width="40" title="TensorFlow"/>
-<img src="https://img.icons8.com/color/48/pytorch.png" width="40" title="PyTorch"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
 </p>
 
