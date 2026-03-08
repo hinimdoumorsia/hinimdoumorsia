@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Morsia Guitdam Hinimdou
 
-<!--
-**hinimdoumorsia/hinimdoumorsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Java | Python | Power BI  
 
-Here are some ideas to get you started:
+## 📂 Projects
+- [My Portfolio](https://site-web-nodemailer.vercel.app/)
+- [GitHub Repo](https://github.com/morsia-hinimdou)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+<a href="mailto:hinimdoumorsia@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/morsia-hinimdou-266bb0269">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
