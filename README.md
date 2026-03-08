@@ -1,8 +1,10 @@
 # 👋 Salut, je suis HINIMDOU MORSIA GUITDAM
 
-🎓 Étudiant en **4ᵉ année en Intelligence Artificielle et Technologie des Données**  
+🎓 Étudiant en **4ᵉ année en Intelligence Artificielle et Technologie des Données – Systèmes industriels**  
 💡 Passionné par l'IA, le Machine Learning, la Data Science et l'intégration de solutions technologiques innovantes dans les domaines industriels, santé, finance et plus.  
-Je développe des modèles IA et les intègre dans des applications réelles. Je crée aussi des applications backend, des APIs, des chatbots et des solutions SaaS.
+
+Salut 👋 Je maîtrise plusieurs langages de programmation me permettant d'intégrer des solutions d’IA pour résoudre des problèmes concrets. Je suis apte et solide pour intégrer différents travaux et projets dans les domaines technologiques : développement d'applications, intégration des solutions IA, conception d’applications, intégration des technologies comme l'Intelligence Artificielle dans l'industrie, la santé, la finance, etc.  
+Souhaiter collaborer sur un sujet ? Souhaiter intégrer des APIs, chatbots, LLM et concevoir votre SaaS ? N’hésite pas à me joindre et à consulter mon portfolio.
 
 ---
 
@@ -28,8 +30,8 @@ Je développe des modèles IA et les intègre dans des applications réelles. Je
 <img src="https://img.icons8.com/color/48/chatbot.png" width="40" title="Chatbot"/>
 </p>
 
-**Sans icônes (séparées) :**  
-LLM | RAG | IA agentique | Sprint Boot | Sprint MVC | J2EE | JPA | Lean Six Sigma | Processus Improve | Modélisation mathématique | Séries temporelles | Computer Vision | NLP | API REST Integration | Deep Learning Modélisation | Résolution de problèmes
+**Sans icônes (séparées par `|`) :**  
+LLM | RAG | IA agentique | Sprint Boot | Sprint MVC | J2EE | JPA | Lean Six Sigma | Processus Improve | Modélisation mathématique | Séries temporelles | Computer Vision | NLP | API REST Integration | Deep Learning Modélisation | Résolution de problèmes | Swing | Grid Search | Optuna
 
 ---
 
