@@ -10,7 +10,7 @@ En parallèle, j'ai travaillé sur des projets concrets : développement d'appli
 
 ---
 
-## 🚀 Compétences
+##  Compétences
 
 **Langages et frameworks :**  
 <p align="left">
@@ -38,7 +38,7 @@ LLM | RAG | IA agentique | Spring Boot | Spring MVC | J2EE | JPA | Lean Six Sigm
 
 ---
 
-## 📂 Projets et portfolio
+##  Projets et portfolio
 
 - [Portfolio](https://site-web-nodemailer.vercel.app/)  
 - [GitHub Repos](https://github.com/hinimdoumorsia)  
@@ -48,7 +48,7 @@ LLM | RAG | IA agentique | Spring Boot | Spring MVC | J2EE | JPA | Lean Six Sigm
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <p align="left">
 <a href="mailto:hinimdoumorsia@gmail.com">
@@ -68,8 +68,6 @@ LLM | RAG | IA agentique | Spring Boot | Spring MVC | J2EE | JPA | Lean Six Sigm
 ---
 
 ## 📊 GitHub Stats
-
-> ⚠️ **Note** : Les statistiques GitHub peuvent prendre quelques minutes à s'afficher si votre profil est nouveau ou peu actif. Si rien n'apparaît, vérifiez que votre nom d'utilisateur est correct (`hinimdoumorsia`) ou réessayez plus tard.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hinimdoumorsia&show_icons=true&count_private=true&theme=radical" width="48%" alt="GitHub Stats"/>
