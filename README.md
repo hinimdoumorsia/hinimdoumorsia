@@ -8,7 +8,7 @@
 
 ---
 
-> 🎓 Étudiant en 4ème année en IA & Data Technologie, je conçois des solutions intelligentes : **ML/DL**, **LLM**, **RAG**, **chatbots**, **SaaS** et applications web. Disponible pour collaborer sur vos projets ! 👉 [Mon Portfolio](https://site-web-nodemailer.vercel.app/)
+> 🎓 **Étudiant en 4ème année en IA & Data Technologie, je conçois des solutions intelligentes : **ML/DL**, **LLM**, **RAG**, **chatbots**, **SaaS** et applications web. Disponible pour collaborer sur vos projets**! 👉 [Mon Portfolio](https://site-web-nodemailer.vercel.app/)
 
 ---
 
@@ -42,15 +42,15 @@
 
 ##  Projets & Portfolio
 
-- [🌐 Portfolio](https://site-web-nodemailer.vercel.app/)  
-- [💻 GitHub Repos](https://github.com/hinimdoumorsia)  
-- [📊 Kaggle](https://www.kaggle.com/morsiahinimdou)  
-- [🎓 Datacamp](https://www.datacamp.com/portfolio/mhinimdou)  
-- [💼 Malt](https://www.malt.com/profile/morsiaguitdamhinimdou?origin=dashboard_profile_name)
+- [ Portfolio](https://site-web-nodemailer.vercel.app/)  
+- [ GitHub Repos](https://github.com/hinimdoumorsia)  
+- [ Kaggle](https://www.kaggle.com/morsiahinimdou)  
+- [ Datacamp](https://www.datacamp.com/portfolio/mhinimdou)  
+- [ Malt](https://www.malt.com/profile/morsiaguitdamhinimdou?origin=dashboard_profile_name)
 
 ---
 
-## 📬 Contact
+##  Contact
 
 <p align="left">
 <a href="mailto:hinimdoumorsia@gmail.com">
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%"/>
