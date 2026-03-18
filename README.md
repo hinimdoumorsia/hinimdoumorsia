@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Élève+Ingénieur+IA+%26+Data+Technologie;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Développeur+Full+Stack+%7C+LLM+%7C+RAG;Passionné+par+l'Intelligence+Artificielle+🤖)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Élève+Ingénieur+IA+%26+Data+Technologie;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Développeur+Full+Stack+%7C+LLM+%7C+RAG;Passionné+par+l'Intelligence+Artificielle+)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 **Langages et frameworks :**  
 <p align="left">
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Projets & Portfolio
+##  Projets & Portfolio
 
 - [🌐 Portfolio](https://site-web-nodemailer.vercel.app/)  
 - [💻 GitHub Repos](https://github.com/hinimdoumorsia)  
