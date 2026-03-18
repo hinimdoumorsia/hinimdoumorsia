@@ -70,6 +70,14 @@ LLM | RAG | IA agentique | Spring Boot | Spring MVC | J2EE | JPA | Lean Six Sigm
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical&count_private=true" width="48%"/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hinimdoumorsia&layout=compact&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hinimdoumorsia&theme=radical" width="60%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.netlify.app/?username=hinimdoumorsia&theme=radical&row=1&column=6" width="100%"/>
 </p>
