@@ -1,16 +1,18 @@
 # 👋 Salut, je suis HINIMDOU MORSIA GUITDAM
 
-Élève ingénieur en Intelligence Artificielle et Data Technologie – Systèmes industriels
+<div align="center">
 
-Étudiant en quatrième année en Intelligence Artificielle et Technologie des Données, passionné par ces technologies innovantes. Je maîtrise plusieurs langages de programmation me permettant d'intégrer des solutions d'IA pour résoudre des problèmes concrets. Apte et solide à intégrer différents travaux et projets dans les domaines technologiques : développement d'application, intégration des solutions IA, conception des applications, intégration des technologies comme l'intelligence artificielle dans les domaines industriels, la santé, la finance et autre. Souhaiter collaborer sur un sujet ? Souhaiter intégrer des API, chatbots, LLM et bien au-delà concevoir votre SaaS ? Alors n'hésite pas à me joindre, il suffit de voir mon portfolio.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Élève+Ingénieur+IA+%26+Data+Technologie;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Développeur+Full+Stack+%7C+LLM+%7C+RAG;Passionné+par+l'Intelligence+Artificielle+🤖)
 
-Je suis doté d'une compétence polyvalente, riche et solidement ancrée dans les technologies modernes, me permettant de faire face à des problématiques complexes et actuelles. Ma maîtrise couvre à la fois le développement de modèles d'IA, leur intégration dans des applications réelles et la résolution de problèmes concrets rencontrés par les entreprises. En IA, je développe des modèles de Machine Learning et Deep Learning avec PyTorch, TensorFlow et Scikit-learn, optimisés avec Optuna, Grid Search ou Cross-Validation. J'ai aussi de l'expérience dans le prétraitement, la visualisation et l'analyse de données avec Pandas, Seaborn, Matplotlib, et dans l'utilisation d'environnements spécialisés comme WEKA.  
-
-En parallèle, j'ai travaillé sur des projets concrets : développement d'applications Java, création de sites web dynamiques (HTML, CSS, JavaScript, React, Next.js), et construction de solutions intelligentes en temps réel répondant à des besoins précis. Je m'intéresse également aux problèmes logistiques et décisionnels, comme les algorithmes d'optimisation, modélisation mathématique, simplexe ou flot maximal, appliqués à l'industrie et à la gestion.
+</div>
 
 ---
 
-##  Compétences
+> 🎓 Étudiant en 4ème année en IA & Data Technologie, je conçois des solutions intelligentes : **ML/DL**, **LLM**, **RAG**, **chatbots**, **SaaS** et applications web. Disponible pour collaborer sur vos projets ! 👉 [Mon Portfolio](https://site-web-nodemailer.vercel.app/)
+
+---
+
+## 🛠️ Compétences
 
 **Langages et frameworks :**  
 <p align="left">
@@ -34,21 +36,21 @@ En parallèle, j'ai travaillé sur des projets concrets : développement d'appli
 </p>
 
 **Domaines d'expertise :**  
-LLM | RAG | IA agentique | Spring Boot | Spring MVC | J2EE | JPA | Lean Six Sigma | Processus Improve | Modélisation mathématique | Séries temporelles | Computer Vision | NLP | API REST | Deep Learning | Swing | Grid Search | Optuna
+`LLM` `RAG` `IA agentique` `Spring Boot` `Computer Vision` `NLP` `Deep Learning` `API REST` `Séries temporelles` `Modélisation mathématique`
 
 ---
 
-##  Projets et portfolio
+## 🚀 Projets & Portfolio
 
-- [Portfolio](https://site-web-nodemailer.vercel.app/)  
-- [GitHub Repos](https://github.com/hinimdoumorsia)  
-- [Kaggle](https://www.kaggle.com/morsiahinimdou)  
-- [Datacamp Portfolio](https://www.datacamp.com/portfolio/mhinimdou)  
-- [Malt](https://www.malt.com/profile/morsiaguitdamhinimdou?origin=dashboard_profile_name)
+- [🌐 Portfolio](https://site-web-nodemailer.vercel.app/)  
+- [💻 GitHub Repos](https://github.com/hinimdoumorsia)  
+- [📊 Kaggle](https://www.kaggle.com/morsiahinimdou)  
+- [🎓 Datacamp](https://www.datacamp.com/portfolio/mhinimdou)  
+- [💼 Malt](https://www.malt.com/profile/morsiaguitdamhinimdou?origin=dashboard_profile_name)
 
 ---
 
-##  Contact
+## 📬 Contact
 
 <p align="left">
 <a href="mailto:hinimdoumorsia@gmail.com">
