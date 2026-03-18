@@ -70,8 +70,8 @@ LLM | RAG | IA agentique | Spring Boot | Spring MVC | J2EE | JPA | Lean Six Sigm
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical&count_private=true" width="48%"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hinimdoumorsia&layout=compact&theme=radical" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hinimdoumorsia&layout=compact&theme=radical&langs_count=8" width="48%"/>
 </p>
 
 <p align="center">
@@ -80,4 +80,22 @@ LLM | RAG | IA agentique | Spring Boot | Spring MVC | J2EE | JPA | Lean Six Sigm
 
 <p align="center">
 <img src="https://github-profile-trophy.netlify.app/?username=hinimdoumorsia&theme=radical&row=1&column=6" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hinimdoumorsia&theme=radical" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinimdoumorsia&theme=radical" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hinimdoumorsia&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hinimdoumorsia&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hinimdoumorsia&theme=radical" width="32%"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hinimdoumorsia&color=blueviolet&style=flat-square&label=Visiteurs+du+profil" />
 </p>
