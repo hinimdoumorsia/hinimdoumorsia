@@ -8,7 +8,7 @@
 
 ---
 
-> 🎓 **Étudiant en 4ème année en IA & Data Technologie, je conçois des solutions intelligentes : **ML/DL**, **LLM**, **RAG**, **chatbots**, **SaaS** et applications web. Disponible pour collaborer sur vos projets**! 👉 [Mon Portfolio](https://site-web-nodemailer.vercel.app/)
+> 🎓 **Étudiant en 5ème année en IA & Data Technologie, je conçois des solutions intelligentes : **ML/DL**, **LLM**, **RAG**, **chatbots**, **SaaS** et applications web. Disponible pour collaborer sur vos projets**! 👉 [Mon Portfolio](https://site-web-nodemailer.vercel.app/)
 
 ---
 
