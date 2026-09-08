@@ -12,31 +12,26 @@
 
 <table>
 <tr>
-<td bgcolor="#0D1117" style="background-color:#0D1117; padding:20px;">
+<td>
+
+<h3>👋 À propos de moi</h3>
+
+**Étudiant en 5ème année en Intelligence Artificielle & Technologie des Données**, je conçois des solutions intelligentes autour du **Machine Learning, Deep Learning, LLM, RAG, chatbots, SaaS et applications web**.
+
+Je m'intéresse particulièrement à la **Data Science, l'IA générative, le NLP et le développement de solutions IA adaptées aux besoins réels**.
+
+**Disponible pour collaborer sur des projets IA, Data et logiciels.**
 
 <p align="center">
-  <font color="#FFFFFF">
-
-🎓 <strong>Étudiant en 5ème année en IA & Technologie des Données</strong>
-
-<br><br>
-
-Je conçois des solutions intelligentes autour du <strong>ML/DL</strong>, <strong>LLM</strong>, <strong>RAG</strong>, <strong>chatbots</strong>, <strong>SaaS</strong> et <strong>applications web</strong>.
-
-<br><br>
-
-🚀 <strong>Disponible pour collaborer sur vos projets IA & Data !</strong>
-
-<br><br>
-
-👉 <a href="https://site-web-nodemailer.vercel.app/"> <strong>Mon Portfolio</strong> </a>
-
-  </font>
+  <a href="https://site-web-nodemailer.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Mon%20Portfolio-8A2BE2?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 </td>
 </tr>
 </table>
+
 
 
 
