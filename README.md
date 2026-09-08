@@ -72,32 +72,32 @@
 ##  GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hinimdoumorsia&layout=compact&theme=radical&langs_count=8" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinimdoumorsia&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hinimdoumorsia&theme=radical" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinimdoumorsia&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.netlify.app/?username=hinimdoumorsia&theme=radical&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hinimdoumorsia&theme=radical&row=1&column=6&margin-w=10&margin-h=10" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hinimdoumorsia&theme=radical" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinimdoumorsia&theme=radical&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinimdoumorsia&theme=radical" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinimdoumorsia&theme=radical" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hinimdoumorsia&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hinimdoumorsia&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hinimdoumorsia&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hinimdoumorsia&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hinimdoumorsia&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hinimdoumorsia&theme=radical" width="32%"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hinimdoumorsia&color=blueviolet&style=flat-square&label=Visiteurs+du+profil" />
+  <img src="https://komarev.com/ghpvc/?username=hinimdoumorsia&color=blueviolet&style=flat-square&label=Visiteurs+du+profil" />
 </p>
