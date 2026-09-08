@@ -8,7 +8,28 @@
 
 ---
 
-> 🎓 **Étudiant en 5ème année en IA & Data Technologie, je conçois des solutions intelligentes : **ML/DL**, **LLM**, **RAG**, **chatbots**, **SaaS** et applications web. Disponible pour collaborer sur vos projets**! 👉 [Mon Portfolio](https://site-web-nodemailer.vercel.app/)
+<table>
+<tr>
+<td>
+
+<h3>👋 À propos de moi</h3>
+
+🎓 **Étudiant en 5ème année en Intelligence Artificielle & Technologie des Données**, je conçois des solutions intelligentes autour du **Machine Learning, Deep Learning, LLM, RAG, chatbots, SaaS et applications web**.
+
+🚀 Je m'intéresse particulièrement à la **Data Science, l'IA générative, le NLP et le développement de solutions IA adaptées aux besoins réels**.
+
+💡 **Disponible pour collaborer sur des projets IA, Data et logiciels.**
+
+<p align="center">
+  <a href="https://site-web-nodemailer.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Mon%20Portfolio-8A2BE2?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
