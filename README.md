@@ -72,11 +72,6 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hinimdoumorsia&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinimdoumorsia&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinimdoumorsia&theme=radical&hide_border=true" width="60%"/>
 </p>
 
