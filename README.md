@@ -14,7 +14,7 @@
 <tr>
 <td>
 
-<h3>👋 À propos de moi</h3>
+<h3> À propos de moi</h3>
 
 **Étudiant en 5ème année en Intelligence Artificielle & Technologie des Données**, je conçois des solutions intelligentes autour du **Machine Learning, Deep Learning, LLM, RAG, chatbots, SaaS et applications web**.
 
