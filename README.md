@@ -72,7 +72,7 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinimdoumorsia&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinimdoumorsia&theme=radical&hide_border=true" width="100%"/>
 </p>
 
 
