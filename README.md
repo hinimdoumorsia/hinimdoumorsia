@@ -8,18 +8,35 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=🎓%20IA%20%26%20Data%20Technology&fontSize=24&fontColor=FFFFFF&desc=ML%20%7C%20DL%20%7C%20LLM%20%7C%20RAG%20%7C%20NLP%20%7C%20SaaS&descSize=16&descAlignY=68" width="100%"/>
-</p>
+
+
+<table>
+<tr>
+<td bgcolor="#0D1117" style="background-color:#0D1117; padding:20px;">
 
 <p align="center">
-  <strong>Étudiant en 5ème année en Intelligence Artificielle & Technologie des Données</strong><br>
-  Je conçois des solutions intelligentes autour du <strong>ML/DL, LLM, RAG, chatbots, SaaS</strong> et des <strong>applications web</strong>.<br><br>
-  🚀 <strong>Disponible pour collaborer sur vos projets IA & Data</strong><br><br>
-  <a href="https://site-web-nodemailer.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Mon%20Portfolio-8A2BE2?style=for-the-badge" />
-  </a>
+  <font color="#FFFFFF">
+
+🎓 <strong>Étudiant en 5ème année en IA & Technologie des Données</strong>
+
+<br><br>
+
+Je conçois des solutions intelligentes autour du <strong>ML/DL</strong>, <strong>LLM</strong>, <strong>RAG</strong>, <strong>chatbots</strong>, <strong>SaaS</strong> et <strong>applications web</strong>.
+
+<br><br>
+
+🚀 <strong>Disponible pour collaborer sur vos projets IA & Data !</strong>
+
+<br><br>
+
+👉 <a href="https://site-web-nodemailer.vercel.app/"> <strong>Mon Portfolio</strong> </a>
+
+  </font>
 </p>
+
+</td>
+</tr>
+</table>
 
 
 
