@@ -75,13 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinimdoumorsia&theme=radical&hide_border=true" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hinimdoumorsia&theme=radical&row=1&column=6&margin-w=10&margin-h=10" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinimdoumorsia&theme=radical&hide_border=true" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinimdoumorsia&theme=radical" width="100%"/>
